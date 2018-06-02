@@ -1,0 +1,19 @@
+{
+    "name": "vostokiya/appmodules",
+    "description": "Modules for Laravel",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Igor R",
+            "email": "vostokiya@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vostokiya\\Appmodules\\": ""
+        }
+    },
+    "require": {}
+}
